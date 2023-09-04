@@ -1,3 +1,10 @@
+/**
+ * Name: Trevor McLaurine
+ * Date: 8/22/2023
+ * Assignment: Assignment 4.4 - Async Pipe
+ * Description: App Module.
+**/
+
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 

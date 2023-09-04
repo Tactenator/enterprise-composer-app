@@ -1,3 +1,10 @@
+/**
+ * Name: Trevor McLaurine
+ * Date: 8/22/2023
+ * Assignment: Assignment 4.4 - Async Pipe
+ * Description: Composer Details
+**/
+
 import { Component, OnInit } from '@angular/core';
 import { IComposer } from '../composer-interface';
 import { ActivatedRoute } from '@angular/router';

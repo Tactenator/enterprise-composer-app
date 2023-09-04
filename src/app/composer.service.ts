@@ -1,3 +1,10 @@
+/**
+ * Name: Trevor McLaurine
+ * Date: 8/22/2023
+ * Assignment: Assignment 4.4 - Async Pipe
+ * Description: Services provider for Composers.
+**/
+
 import { Injectable } from '@angular/core';
 import { IComposer } from './composer-interface';
 import { Observable, of, map } from 'rxjs';
